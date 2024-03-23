@@ -1,3 +1,3 @@
 # fferica.github.io
 
-[Linkedin(https://www.linkedin.com/feed/)]
+[Linkedin](https://www.linkedin.com/feed/)
